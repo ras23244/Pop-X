@@ -62,7 +62,7 @@ const LoginPage = () => {
               type="submit"
               className="w-full bg-gray-600 text-white py-3 rounded-md hover:bg-purple-700 transition-colors"
             >
-              Login
+             <Link to="/account-settings">Login</Link>
             </button>
           </form>
         </div>
