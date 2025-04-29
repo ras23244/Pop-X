@@ -2,7 +2,7 @@ import React from 'react';
 
 const AccountSettingsPage=() => {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 max-w-md mx-auto">
       <div className="px-4 py-6">
         <h1 className="text-xl font-medium text-gray-900 mb-6">Account Settings</h1>
         
